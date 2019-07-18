@@ -1,7 +1,7 @@
 # Vanquish – Get to Shell
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/overcyber/ruadan/master/Vanquish.png" title="Vanquish is new name Ruadan - Kali Linux Enumeration Orchestrator"/>
+  <img src="https://raw.githubusercontent.com/overcyber/ruadan/master/ruadan.png" title="Vanquish is new name Ruadan - Kali Linux Enumeration Orchestrator"/>
 </p>
 
 Vanquish is a Kali Linux based Enumeration Orchestrator built in Python.  Vanquish leverages the opensource enumeration tools on Kali to perform multiple active information gathering phases. The results of each phase are fed into the next phase to identify vulnerabilities that could be leveraged for a remote shell.  
