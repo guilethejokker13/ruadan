@@ -1,7 +1,7 @@
 # Vanquish – Get to Shell
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/frizb/Vanquish/master/Vanquish.png" title="Vanquish - Kali Linux Enumeration Orchestrator"/>
+  <img src="" title="Vanquish - Kali Linux Enumeration Orchestrator"/>
 </p>
 
 Vanquish is a Kali Linux based Enumeration Orchestrator built in Python.  Vanquish leverages the opensource enumeration tools on Kali to perform multiple active information gathering phases. The results of each phase are fed into the next phase to identify vulnerabilities that could be leveraged for a remote shell.  
@@ -21,8 +21,8 @@ So what is so special about Vanquish compared to other enumeration scripts?
 
 Vanquish can be installed on Kali Linux using the following commands:
 
-    git clone https://github.com/frizb/Vanquish
-    cd Vanquish
+    git clone https://github.com/overcyber/ruadan
+    cd ruadan
     python Vanquish2.py -install
     vanquish --help
 
@@ -127,7 +127,7 @@ Store the credentials in a file in the root of your scan path and name it: crede
 
 Ex. File containing host list: /root/Documents/Vanquish/myhosts.txt
     
-    /root/Documents/Vanquish/myhosts/credentials.txt
+    /root/Documents/ruadan/myhosts/credentials.txt
 
 Store each known credential in username:password format in the text file
 Ex. credentials.txt
@@ -147,12 +147,12 @@ This attack will use a list of known usernames and a list of known passwords for
 Store the usernames in a file in the root of your scan path and name it: usernames.txt
 Ex. File containing host list: /root/Documents/Vanquish/myhosts.txt
 
-    /root/Documents/Vanquish/myhosts/usernames.txt
+    /root/Documents/ruadan/myhosts/usernames.txt
     
 Store the passwords in a file in the root of your scan path and name it: passwords.txt
 Ex. File containing host list: /root/Documents/Vanquish/myhosts.txt
     
-    /root/Documents/Vanquish/myhosts/passwords.txt
+    /root/Documents/ruadan/myhosts/passwords.txt
     
 Store each username or password on a new line of the text file
 Ex. usernames.txt
