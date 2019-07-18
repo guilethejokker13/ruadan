@@ -1,3 +1,19 @@
+              _____     _______ ____   ______   ______  _____ ____  
+             / _ \ \   / / ____|  _ \ / ___\ \ / / __ )| ____|  _ \ 
+            | | | \ \ / /|  _| | |_) | |    \ V /|  _ \|  _| | |_) |
+            | |_| |\ V / | |___|  _ <| |___  | | | |_) | |___|  _ < 
+             \___/  \_/  |_____|_| \_\\____| |_| |____/|_____|_| \_\
+                                                                    
+
+
+
+####### SENHA DA WEBSHELL de NOME evilwarrior.php é overcyber ##############
+
+
+
+ABAIXO SÃO INFORMAÇÔES PARA CRIAR A SUA VESÂO MODIFICADA DA b374k SHELL
+
+###############################################################################
 # b374k shell 3.2
 This PHP Shell is a useful tool for system or web administrator to do remote management without using cpanel, connecting using ssh, ftp etc. All actions take place within a web browser
 
